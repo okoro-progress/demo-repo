@@ -1,2 +1,2 @@
 # lead line
-truth is that, i know not what to say
+truth is that, i know what to say
